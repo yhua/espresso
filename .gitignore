@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.iml
+.idea
+*/target/
+target/*
+*/data/
+data/*
